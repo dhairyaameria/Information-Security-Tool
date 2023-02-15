@@ -1,5 +1,5 @@
-## vulnerabilityscanner
-Python Web Application vulnerability scanner to detect XSS and SQL injection in web applications. 
+## Web Application Vulnerability Scanner
+It is an information security tool. Web Application vulnerability scanner is used to detect XSS and SQL injection in web applications. 
 
 
 ## Requirement
